@@ -1,6 +1,6 @@
 # RL-Project
 
-main.py - the main code with explenantion (stage 1)
+main.py - the main code with explanantion (stage 1)
 
 stage_2.py - code for stage 2 (uncommented but analog to main file)
 
